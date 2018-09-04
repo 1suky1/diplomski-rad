@@ -1,0 +1,16 @@
+﻿  Cloner.cpp
+c:\users\msutl\desktop\ae\adobe after effects cc 15.0 win sdk\examples\suky\cloner\cloner.h(78): warning C4244: '=': conversion from 'const double' to 'PF_ParamValue', possible loss of data
+c:\users\msutl\desktop\ae\adobe after effects cc 15.0 win sdk\examples\suky\cloner\cloner.h(79): warning C4244: '=': conversion from 'const double' to 'PF_ParamValue', possible loss of data
+c:\users\msutl\desktop\ae\adobe after effects cc 15.0 win sdk\examples\suky\cloner\cloner.h(80): warning C4244: '=': conversion from 'const double' to 'PF_ParamValue', possible loss of data
+c:\users\msutl\desktop\ae\adobe after effects cc 15.0 win sdk\examples\suky\cloner\cloner.h(81): warning C4244: '=': conversion from 'const double' to 'PF_ParamValue', possible loss of data
+c:\users\msutl\desktop\ae\adobe after effects cc 15.0 win sdk\examples\suky\cloner\cloner.h(82): warning C4244: '=': conversion from 'const double' to 'PF_ParamValue', possible loss of data
+c:\users\msutl\desktop\ae\adobe after effects cc 15.0 win sdk\examples\suky\cloner\cloner.h(83): warning C4244: '=': conversion from 'const double' to 'PF_ParamValue', possible loss of data
+c:\users\msutl\desktop\ae\adobe after effects cc 15.0 win sdk\examples\suky\cloner\cloner.h(84): warning C4244: '=': conversion from 'const double' to 'PF_ParamValue', possible loss of data
+c:\users\msutl\desktop\ae\adobe after effects cc 15.0 win sdk\examples\suky\cloner\cloner.h(85): warning C4244: '=': conversion from 'const double' to 'PF_ParamValue', possible loss of data
+c:\users\msutl\desktop\ae\adobe after effects cc 15.0 win sdk\examples\suky\cloner\cloner.h(86): warning C4244: '=': conversion from 'const double' to 'PF_ParamValue', possible loss of data
+c:\users\msutl\desktop\ae\adobe after effects cc 15.0 win sdk\examples\suky\cloner\cloner.h(87): warning C4244: '=': conversion from 'const double' to 'PF_ParamValue', possible loss of data
+c:\users\msutl\desktop\ae\adobe after effects cc 15.0 win sdk\examples\suky\cloner\cloner.h(88): warning C4244: '=': conversion from 'const double' to 'PF_ParamValue', possible loss of data
+c:\users\msutl\desktop\ae\adobe after effects cc 15.0 win sdk\examples\suky\cloner\cloner.h(89): warning C4244: '=': conversion from 'const double' to 'PF_ParamValue', possible loss of data
+c:\users\msutl\desktop\ae\adobe after effects cc 15.0 win sdk\examples\suky\cloner\cloner.cpp(228): warning C4101: 'yEnd': unreferenced local variable
+c:\users\msutl\desktop\ae\adobe after effects cc 15.0 win sdk\examples\suky\cloner\cloner.cpp(228): warning C4101: 'xEnd': unreferenced local variable
+  Skeleton.vcxproj -> D:\Adobe\Adobe After Effects CC 2018\Support Files\Plug-ins\Cloner.aex
