@@ -1,6 +1,6 @@
 # diplomski-rad
 
-Skriptu je potrebno staviti u "..\Adobe\Adobe After Effects CC 2018\Support Files\Scripts\ScriptUI Panels\"
+Skriptu Cloner.jsx potrebno je staviti u "..\Adobe\Adobe After Effects CC 2018\Support Files\Scripts\ScriptUI Panels\"
 
 Cloner.aex je potrebno staviti u "..\Adobe\Adobe After Effects CC 2018\Support Files\Plug-ins"
 
