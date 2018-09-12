@@ -4,4 +4,4 @@ Skriptu Cloner.jsx potrebno je staviti u "..\Adobe\Adobe After Effects CC 2018\S
 
 Cloner.aex je potrebno staviti u "..\Adobe\Adobe After Effects CC 2018\Support Files\Plug-ins"
 
-Ako želite, buildanje VS projekta je objašnjeno u poglavlju 3.3. diplomskog rada :)
+Video https://www.youtube.com/watch?v=Zo9UahblmUw&feature=youtu.be
